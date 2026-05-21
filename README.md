@@ -1,8 +1,8 @@
 # Laboratory-Work-5-Activity-Comparative-Analysis
 
-Three Models: https://drive.google.com/drive/folders/1MYiofCe9cRd6fOwFiMxAObJ_76wvphrV?usp=drive_link
+### Three Models: https://drive.google.com/drive/folders/1MYiofCe9cRd6fOwFiMxAObJ_76wvphrV?usp=drive_link
 
-Google colab: https://colab.research.google.com/drive/1E4uuteR1aKSq2uLpGEBdP-4dIoe48OhZ
+### Google colab: https://colab.research.google.com/drive/1E4uuteR1aKSq2uLpGEBdP-4dIoe48OhZ
 
 
 ## GUIDE QUESTIONS (FINAL REFLECTION)
