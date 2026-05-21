@@ -1,5 +1,7 @@
 # Laboratory-Work-5-Activity-Comparative-Analysis
 
+Google Drive: https://drive.google.com/drive/folders/1MYiofCe9cRd6fOwFiMxAObJ_76wvphrV?usp=drive_link
+
 Google colab: https://colab.research.google.com/drive/1E4uuteR1aKSq2uLpGEBdP-4dIoe48OhZ
 
 
