@@ -5,7 +5,7 @@ Google colab: https://colab.research.google.com/drive/1E4uuteR1aKSq2uLpGEBdP-4dI
 
 GUIDE QUESTIONS (FINAL REFLECTION)
 
-# A. Model Performance
+## A. Model Performance
 1. Which pre-trained model achieved the highest accuracy? Why?
 2. Which model had the lowest performance? What could be the reason?
 3. How did loss values compare across models?
