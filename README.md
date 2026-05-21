@@ -51,7 +51,7 @@
 ### 15. How can you further improve your best-performing model?
 #### Answer:
 
-### G. Real-World Application
-16. How can your model be applied in real-world scenarios?
-17. What are the risks of deploying an inaccurate model?
-18. How can this system be integrated into a mobile/web app?
+## G. Real-World Application
+### 16. How can your model be applied in real-world scenarios?
+### 17. What are the risks of deploying an inaccurate model?
+### 18. How can this system be integrated into a mobile/web app?
