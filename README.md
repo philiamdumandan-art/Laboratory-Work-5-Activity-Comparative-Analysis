@@ -5,7 +5,7 @@ Three Models: https://drive.google.com/drive/folders/1MYiofCe9cRd6fOwFiMxAObJ_76
 Google colab: https://colab.research.google.com/drive/1E4uuteR1aKSq2uLpGEBdP-4dIoe48OhZ
 
 
-##GUIDE QUESTIONS (FINAL REFLECTION)
+## GUIDE QUESTIONS (FINAL REFLECTION)
 
 ### A. Model Performance
 1. Which pre-trained model achieved the highest accuracy? Why?
